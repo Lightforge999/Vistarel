@@ -1,0 +1,31 @@
+VISTAREL FREEWARE LICENSE
+
+Copyright © 2026 Maksim Pershikov. All rights reserved.
+
+1. LICENSE GRANT
+Subject to these terms, you are granted a non-exclusive license to install and use the compiled Vistarel application free of charge for personal or commercial purposes.
+
+2. OWNERSHIP
+Vistarel is proprietary software. Its original code, branding, graphics, and other original materials remain the property of the copyright holder, except for third-party components identified separately. No source-code license is granted.
+
+3. RESTRICTIONS
+Except where applicable law expressly permits otherwise, you may not sell, sublicense, rent, modify, reverse engineer, decompile, disassemble, remove proprietary notices from, or represent Vistarel as your own product.
+
+4. REDISTRIBUTION
+Do not repackage or bundle Vistarel with other software without prior permission from the copyright holder. Linking to the official Vistarel distribution page is permitted.
+
+5. THIRD-PARTY COMPONENTS
+Third-party components remain subject to their own license terms. Nothing in this license restricts rights granted directly by those licenses.
+
+6. NO WARRANTY
+Vistarel is provided "AS IS", without warranties of any kind, express or implied, to the maximum extent permitted by applicable law.
+
+7. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, the copyright holder shall not be liable for indirect, incidental, special, consequential, or similar damages arising from use of or inability to use Vistarel.
+
+8. APPLICABLE LAW
+Nothing in these terms excludes or limits rights or obligations that cannot lawfully be excluded or limited under applicable law.
+
+Contact:
+Maksim Pershikov
+tempchar1@outlook.com
