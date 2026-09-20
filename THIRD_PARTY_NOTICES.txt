@@ -1,0 +1,36 @@
+VISTAREL — THIRD-PARTY NOTICES
+
+Vistarel uses third-party components. Copyright and license rights for those components remain with their respective authors and contributors.
+
+This repository contains a summary. The distributed Vistarel package should include the complete notices and license texts required by the exact third-party binaries and assets shipped in that release.
+
+1. Qt
+
+Vistarel uses the Qt framework. Qt is available under multiple licensing options. The Vistarel binary distribution must comply with the license terms applicable to the Qt libraries actually shipped with the application.
+
+Project website: https://www.qt.io/
+
+The release package must include applicable Qt license notices/texts and preserve all rights granted to recipients by the applicable Qt license.
+
+2. Inter
+
+Vistarel uses the Inter typeface, distributed under the SIL Open Font License 1.1.
+
+Project: https://github.com/rsms/inter
+
+3. Lucide
+
+Vistarel uses icons from Lucide, distributed under the ISC License.
+
+Project: https://github.com/lucide-icons/lucide
+
+4. Additional Components
+
+Any additional third-party runtime library, image-format plugin, Microsoft runtime component, or asset included in a Vistarel release remains subject to its respective license and redistribution terms.
+
+Before each public release, audit the final installer and portable package against this notice and include all required copyright notices and full license texts.
+
+Vistarel original application code and branding:
+Copyright © 2026 Maksim Pershikov. All rights reserved.
+
+Contact: tempchar1@outlook.com
