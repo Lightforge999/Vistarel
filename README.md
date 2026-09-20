@@ -14,19 +14,19 @@ Vistarel is a focused desktop image utility built for a simple workflow: **open 
 
 Open an image or an entire folder and start working immediately. Vistarel provides fast navigation, Fit/100% controls, zoom and pan, rotation, fullscreen viewing, thumbnails and compact image information without a catalog or database.
 
-![Vistarel Viewer](assets/screenshots/viewer.jpg)
+![Vistarel Viewer](viewer.jpg)
 
 ### Detail inspection
 
 Use the built-in magnifier for quick pixel-level inspection without leaving the viewer.
 
-![Vistarel Magnifier](assets/screenshots/magnifier.jpg)
+![Vistarel Magnifier](magnifier.jpg)
 
 ## Compare
 
 Smart Compare lets you inspect two images together with synchronized viewing tools, alignment controls and multiple comparison modes.
 
-![Vistarel Smart Compare](assets/screenshots/compare.jpg)
+![Vistarel Smart Compare](compare.jpg)
 
 ## Batch Processing
 
@@ -41,13 +41,13 @@ Process multiple images in one workflow. Batch tools include:
 - Preview before processing
 - Pause and cancel controls
 
-![Vistarel Batch Processing](assets/screenshots/batch.jpg)
+![Vistarel Batch Processing](batch.jpg)
 
 ## File information
 
 Quickly inspect practical file details such as format, dimensions, size, bit depth, alpha, dates and resolution.
 
-![Vistarel File Information](assets/screenshots/info.jpg)
+![Vistarel File Information](info.jpg)
 
 ## Highlights
 
