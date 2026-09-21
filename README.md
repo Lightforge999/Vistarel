@@ -1,64 +1,70 @@
-# Vistarel
+# Vistarel 1.1
 
-**Fast, lightweight image viewing, comparison and batch processing for Windows.**
+**A lightweight native image viewer, comparison and batch-processing utility for Windows.**
 
-Vistarel is a focused desktop image utility built for a simple workflow: **open → inspect → compare → batch process → continue in Photoshop or another application**.
+Vistarel is built around a simple workflow:
+
+**open → inspect → compare → process → continue in Photoshop or another app**
 
 **Freeware · Windows 10/11 · x64 · Russian & English · No account required**
 
-[**Download Vistarel 1.0.0**](https://github.com/Lightforge999/Vistarel/releases/latest) · [Portable version](https://github.com/Lightforge999/Vistarel/releases/latest)
+[**Download Vistarel 1.1**](https://github.com/tempchar01/Vistarel/releases/latest) · [**Support Vistarel ♥**](https://app.lava.top/tempchar)
 
 ---
 
 ## Viewer
 
-Open an image or an entire folder and start working immediately. Vistarel provides fast navigation, Fit/100% controls, zoom and pan, rotation, fullscreen viewing, thumbnails and compact image information without a catalog or database.
+Fast image viewing with folder navigation, thumbnails, Fit/100%, zoom, pan, rotation and fullscreen.
 
-![Vistarel Viewer](viewer.jpg)
+![Vistarel Viewer](viewer-1.1.jpg)
 
-### Detail inspection
+## Detail inspection
 
-Use the built-in magnifier for quick pixel-level inspection without leaving the viewer.
+Use the built-in magnifier and color inspection tools without leaving the viewer.
 
-![Vistarel Magnifier](magnifier.jpg)
+![Vistarel Magnifier](magnifier-1.1.jpg)
 
 ## Compare
 
-Smart Compare lets you inspect two images together with synchronized viewing tools, alignment controls and multiple comparison modes.
+Compare two images side by side with synchronized viewing and alignment controls.
 
-![Vistarel Smart Compare](compare.jpg)
+![Vistarel Smart Compare](compare-1.1.jpg)
 
 ## Batch Processing
 
-Process multiple images in one workflow. Batch tools include:
+Process multiple files in one workflow with crop, rotate/flip, resize, convert and rename operations.
 
-- Crop with manual selection and common aspect ratios
-- Rotate and flip
-- Resize
-- Convert between supported output formats
-- Rename
-- Collision handling and safe export
-- Preview before processing
-- Pause and cancel controls
-
-![Vistarel Batch Processing](batch.jpg)
+![Vistarel Batch Processing](batch-1.1.jpg)
 
 ## File information
 
-Quickly inspect practical file details such as format, dimensions, size, bit depth, alpha, dates and resolution.
+Inspect practical image details such as dimensions, file size, bit depth, resolution and color profile.
 
-![Vistarel File Information](info.jpg)
+![Vistarel File Information](info-1.1.jpg)
+
+## What's new in 1.1
+
+- Refined minimalist Graphite/Pearl interface
+- Cleaner Viewer, Compare and Batch layouts
+- Save As for the current image
+- Screenshot capture workflow
+- Improved window/application icon handling
+- Compact File Information dialog
+- Built-in Support Vistarel link
+- General UI and interaction polish
 
 ## Highlights
 
-- Lightweight native Windows desktop application
-- Folder navigation and thumbnail strip
+- Native Windows desktop application
+- Fast folder navigation and thumbnail strip
 - Drag & drop
 - Fit, 100%, zoom, pan and fullscreen
-- Image rotation
-- Detail magnifier
+- Rotation
+- Magnifier and color inspection
 - Smart image comparison
 - Batch crop, rotate, resize, convert and rename
+- Save As
+- Screenshot capture
 - Open in Photoshop / Windows Open With integration
 - Graphite, Pearl and System themes
 - Russian and English interface
@@ -71,23 +77,29 @@ The current Windows build supports common formats through its bundled image runt
 
 **JPEG · PNG · WebP · TIFF · BMP · GIF · ICO**
 
-Additional runtime-supported formats may also open in Vistarel. Export availability depends on the selected output format.
+Export availability depends on the selected output format and the encoders available in the deployed runtime.
 
 ## Download
 
-### Windows installer — recommended
+### Windows installer
 
-Download the latest **Setup EXE** from:
+Download the latest Setup EXE from:
 
-[**Vistarel Releases**](https://github.com/Lightforge999/Vistarel/releases/latest)
+[**Vistarel Releases**](https://github.com/tempchar01/Vistarel/releases/latest)
 
-The installer adds the application and Windows shortcuts and includes an uninstaller.
+The installer adds Vistarel and Windows shortcuts and includes an uninstaller.
 
 ### Portable
 
-Prefer not to install anything? Download the **Portable ZIP**, extract it to a folder and run `Vistarel.exe`.
+Prefer not to install anything? Download the Portable ZIP, extract it to a folder and run `Vistarel.exe`.
 
 Both editions contain the runtime components required by Vistarel; a separate Qt installation is not required.
+
+## Support development
+
+Vistarel is free to use. If it is useful to you, you can support its development here:
+
+[**♥ Support Vistarel on Lava**](https://app.lava.top/tempchar)
 
 ## System requirements
 
