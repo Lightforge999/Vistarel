@@ -16,31 +16,31 @@ Vistarel is built around a simple workflow:
 
 Fast image viewing with folder navigation, thumbnails, Fit/100%, zoom, pan, rotation and fullscreen.
 
-![Vistarel Viewer](viewer-1.1.jpg)
+![Vistarel Viewer](viewer.jpg)
 
 ## Detail inspection
 
 Use the built-in magnifier and color inspection tools without leaving the viewer.
 
-![Vistarel Magnifier](magnifier-1.1.jpg)
+![Vistarel Magnifier](magnifier.jpg)
 
 ## Compare
 
 Compare two images side by side with synchronized viewing and alignment controls.
 
-![Vistarel Smart Compare](compare-1.1.jpg)
+![Vistarel Smart Compare](compare.jpg)
 
 ## Batch Processing
 
 Process multiple files in one workflow with crop, rotate/flip, resize, convert and rename operations.
 
-![Vistarel Batch Processing](batch-1.1.jpg)
+![Vistarel Batch Processing](batch.jpg)
 
 ## File information
 
 Inspect practical image details such as dimensions, file size, bit depth, resolution and color profile.
 
-![Vistarel File Information](info-1.1.jpg)
+![Vistarel File Information](info.jpg)
 
 ## What's new in 1.1
 
